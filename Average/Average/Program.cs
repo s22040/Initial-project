@@ -1,6 +1,6 @@
 ﻿class Average
 {
-    public static void count_avg()
+    public static void licz_srednia()
     {
         int[] numbers = {4, 6, 8, 10, 12};
         int sum = 0;
@@ -15,6 +15,6 @@
     }
     static void Main()
     {
-        Average.count_avg();
+        Average.licz_srednia();
     }
 }
